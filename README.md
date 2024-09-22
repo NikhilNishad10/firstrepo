@@ -1,4 +1,4 @@
 # firstrepo
 This is my first git repository
 <br>
-author-Nikhil
+author-Nikhil Nishad
